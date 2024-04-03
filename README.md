@@ -69,25 +69,18 @@
 ## :dart: Project Scope
 
 ### Functional Requirements:
-- ✅   
-- ✅  
-- ✅  
-- ✅  
-- ✅  
-- ✅  
-- ✅  
-- ✅  
+- ✅   Develop an intuitive web interface, with authentication
+- ✅   Develop a Dashboard of indicators by periods
+- ✅   Period filters for data analysis
+- ✅   Generating reports for sharing
 
 
 ### Non-Functional Requirements
-- ✅  
-- ✅  
-- ✅  
-- ✅  
-- ✅  
-- ✅  
-- ✅  
-- ✅  
+- ✅  User manual
+- ✅  System documentation
+- ✅  Installation guide
+- ✅  Access to development organization
+
 
 → [Return the top](#returnthetop)
 
