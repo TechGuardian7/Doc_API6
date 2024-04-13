@@ -7,14 +7,14 @@
 <br>
 
 <p align="center">
-  <a href ="#who-are-we"> Who are we </a> •
-  <a href ="#team"> Team </a> •
-  <a href ="#partner-company"> Partner Company </a>  • 
-  <a href ="#objective"> Objective </a>  • 
-  <a href ="#project-scope"> Project Scope </a> •
-  <a href ="#backlog"> Backlog </a>  • 
-  <a href ="#technologies"> Technologies </a>  •
-  <a href ="#timeline"> Timeline </a>  •
+  <a href ="#who-are-we"> Projeto </a>  •
+  <a href ="#team"> Backlogs, Épicos & User Stories </a>  •
+  <a href ="#partner-company"> Modelo de Dados </a>  • 
+  <a href ="#objective"> Dados </a>  • 
+  <a href ="#project-scope"> Escopo do Projeto </a> •
+  <a href ="#backlog"> Cronograma </a>  • 
+  <a href ="#technologies"> Tecnologias </a>  •
+  <a href ="#timeline"> Equipe </a>  •
 </p>
 
 
@@ -22,8 +22,8 @@
   
 <hr>
 
-##  :space_invader:Who are we:
-
+##  :space_invader:Projeto:
+  O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos.
 
 
 <span id="team">
