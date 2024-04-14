@@ -3,39 +3,19 @@
 <div align="center">
 <img src="/Documentos/techguardian.png" width="350px" />
 </div>
-<br>
-<br>
-
-<p align="center">
-  <a href ="#who-are-we"> Projeto </a>  •
-  <a href ="#team"> Backlogs & User Stories </a>  •
-  <a href ="#partner-company"> Modelo de Dados </a>  • 
-  <a href ="#project-scope"> Escopo do Projeto </a> •
-  <a href ="#backlog"> Cronograma </a>  • 
-  <a href ="#technologies"> Tecnologias </a>  •
-  <a href ="#timeline"> Equipe </a>  •
-</p>
-
-
- 
-  
-<hr>
-
+   
 ##  :space_invader:Projeto:
   O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos.
-
-
-
 
 
 ## :dart: Backlog Sprint 01
 
 
-<img src="/Documentos/backlog.png" width="350px" />
+<img src="/Documentos/backlogsprint1.png" width="350px" />
   
 ## :dart: Backlog Total  
 <p>
-<img src="/Documentos/backlog.png" width="350px" />
+<img src="/Documentos/backlogsprint1.png" width="350px" />
 </p>
 
 <p>
@@ -62,20 +42,28 @@
 
 ### :bookmark_tabs: Modelo de Dados
 
-<img src="/Documentos/modelo.png" width="250px" />
+<img src="/Documentos/modelagemDados.png" width="350px" />
 <p>
-CamId: Identificador único da câmera que registrou o movimento na RedZone. 
+end_id/sai_id: Identificador único de registro do movimento na RedZone. 
 </p>
 <p>
-Quantidade: Número de pessoas envolvidas no movimento registrado. 
+data_entrada/data_saida: Data do momento em que o movimento foi registrado. 
 </p>
 <p>
-Entrada/Saída: Indicador se o movimento registrado foi uma entrada ou saída na RedZone.
+hora_entrada/hora_saida: Horário do momento em que o movimento foi registrado. 
   </p>
 <p>
-Horário: Momento em que o movimento foi registrado. 
+obs_entrada/obs_saida: Campo opcional para incluir observações adicionais sobre o movimento. 
 </p>
-Observação: Campo opcional para incluir observações adicionais sobre o movimento. 
+
+### 📊Burndown
+<p>
+  
+</p>
+
+### 📹Sprint Review
+<p>
+
 </p>
 
 ### Requisitos Funcionais:
