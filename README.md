@@ -10,7 +10,6 @@
   <a href ="#who-are-we"> Projeto </a>  •
   <a href ="#team"> Backlogs & User Stories </a>  •
   <a href ="#partner-company"> Modelo de Dados </a>  • 
-  <a href ="#objective"> Dados </a>  • 
   <a href ="#project-scope"> Escopo do Projeto </a> •
   <a href ="#backlog"> Cronograma </a>  • 
   <a href ="#technologies"> Tecnologias </a>  •
@@ -50,7 +49,7 @@
 
 ##  :space_invader:Task details:
 
-
+<img src="/Documentos/tasks.png" width="700px" />
 
 
 <span id="project-scope">
@@ -61,9 +60,23 @@
 
 <img src="/Documentos/mockup.png" width="350px" />
 
-### Modelo de Dados
+### :bookmark_tabs: Modelo de Dados
 
-<img src="/Documentos/modeloDados.png" width="350px" />
+<img src="/Documentos/modelo.png" width="250px" />
+<p>
+CamId: Identificador único da câmera que registrou o movimento na RedZone. 
+</p>
+<p>
+Quantidade: Número de pessoas envolvidas no movimento registrado. 
+</p>
+<p>
+Entrada/Saída: Indicador se o movimento registrado foi uma entrada ou saída na RedZone.
+  </p>
+<p>
+Horário: Momento em que o movimento foi registrado. 
+</p>
+Observação: Campo opcional para incluir observações adicionais sobre o movimento. 
+</p>
 
 ### Requisitos Funcionais:
 - ✅   Desenvolver uma interface web intuitiva, com autenticação;
@@ -77,13 +90,6 @@
 - ✅  Documentação do sistema;
 - ✅  Guia de instalação;
 - ✅  Acesso à organização de desenvolvimento.
-
-
-→ [Return the top](#returnthetop)
-
-
-
-
 
 
 ## :dart: Tecnologias Utilizadas 
@@ -122,11 +128,6 @@ Vídeo Sprint Review
 | Thamires de Souza Barbosa | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thamires-S0uza) |
 | Vitor Yuri Santos | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y) |
 | William Claudimar | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/William2819) |
-
-<span id="partner-company">
-
-## :bookmark_tabs: Partner Company
-
 
 
 → [Return the top](#returnthetop)
