@@ -26,21 +26,6 @@
   O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos.
 
 
-<span id="team">
-
-## 👨‍💻 Team
-
-
-|    Name     | Function |      GitHub    |
-|:-----------: |:------|:----------------------------|
-| Eduardo Carvalho | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoPereiraCarvalho) |
-| Rafael Cajé | Scrum Master | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafael-Caje) |
-| Ana Paula | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaPaulaSOliveira) |
-| Carlos Henrique | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Henrique39) |
-| Thamires de Souza Barbosa | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thamires-S0uza) |
-| Vitor Yuri Santos | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y) |
-| William Claudimar | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/William2819) |
-
 
 <span id="partner-company">
 
@@ -55,12 +40,7 @@
 <span id="objective">
   
   
-## :bookmark_tabs: Objective
 
-<p align="left"> 
-
-
-</p>
 
 → [Return the top](#returnthetop)
 
@@ -68,18 +48,18 @@
 
 ## :dart: Project Scope
 
-### Functional Requirements:
-- ✅   Develop an intuitive web interface, with authentication
-- ✅   Develop a Dashboard of indicators by periods
-- ✅   Period filters for data analysis
-- ✅   Generating reports for sharing
+### Requisitos Funcionais:
+- ✅   Desenvolver uma interface web intuitiva, com autenticação;
+- ✅   Desenvolver um Dashboard de indicadores por período;
+- ✅   Filtros de período para análise de dados;
+- ✅   Geração relatórios para compartilhamento.
 
 
-### Non-Functional Requirements
-- ✅  User manual
-- ✅  System documentation
-- ✅  Installation guide
-- ✅  Access to development organization
+### Requisitos Não Funcionais:
+- ✅  Manual do usuário;
+- ✅  Documentação do sistema;
+- ✅  Guia de instalação;
+- ✅  Acesso à organização de desenvolvimento.
 
 
 → [Return the top](#returnthetop)
@@ -88,20 +68,16 @@
 
 ## :dart: Backlog
 
-  
-  | Sprint |     Task   |  Importance |
-|:------:|:--------------------:|:-------------:|
-|    1   |    | Very Important |
-|    1   |    | Very Important |
-|    1   |    | Important |
-|    1   |    | Medium |
+
+<img src="/Documentos/backlog.png" width="350px" />
+
 
 
 ## :dart: Technologies Used 
 
-- ✅  Tools: Figma, Visual Studio Code, Github.
-- ✅  Back-End Programming: Java Web Server-Side, Python, AI.
-- ✅  Front-End Programming: SPA/ Vue.js, SpringBoot.
+- ✅  Ferramentas: Figma, Visual Studio Code, Github, Whatsapp e Discord
+- ✅  Programação Back-End : Java , Python, IA.
+- ✅  Front-End Programming:  Vue.js, SpringBoot.
 - ✅  Database: .
 
 ## :dart: Timeline
@@ -120,6 +96,23 @@ Vídeo Sprint Review
 
 
 <hr>
+
+<span id="team">
+
+## 👨‍💻 Team
+
+
+|    Name     | Function |      GitHub    |
+|:-----------: |:------|:----------------------------|
+| Eduardo Carvalho | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoPereiraCarvalho) |
+| Rafael Cajé | Scrum Master | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafael-Caje) |
+| Ana Paula | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaPaulaSOliveira) |
+| Carlos Henrique | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Henrique39) |
+| Thamires de Souza Barbosa | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thamires-S0uza) |
+| Vitor Yuri Santos | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y) |
+| William Claudimar | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/William2819) |
+
+
 
 ##  :space_invader:Task details:
 
