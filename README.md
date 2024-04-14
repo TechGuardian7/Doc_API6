@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href ="#who-are-we"> Projeto </a>  •
-  <a href ="#team"> Backlogs, Épicos & User Stories </a>  •
+  <a href ="#team"> Backlogs & User Stories </a>  •
   <a href ="#partner-company"> Modelo de Dados </a>  • 
   <a href ="#objective"> Dados </a>  • 
   <a href ="#project-scope"> Escopo do Projeto </a> •
@@ -27,26 +27,43 @@
 
 
 
-<span id="partner-company">
-
-## :bookmark_tabs: Partner Company
-
-<p align="left"> 
 
 
+## :dart: Backlog Sprint 01
+
+
+<img src="/Documentos/backlog.png" width="350px" />
+  
+## :dart: Backlog Total  
+<p>
+<img src="/Documentos/backlog.png" width="350px" />
 </p>
 
+<p>
+<img src="/Documentos/backlogsprint2.png" width="350px" />
+</p>
+<img src="/Documentos/backlogsprint3.png" width="350px" />
 
-<span id="objective">
-  
-  
+### Critérios de Aceitação
+
+<img src="/Documentos/criterioAceitação.png" width="1000px" />
+
+##  :space_invader:Task details:
 
 
-→ [Return the top](#returnthetop)
+
 
 <span id="project-scope">
 
-## :dart: Project Scope
+## :dart: Escopo do Projeto
+
+### Mockup
+
+<img src="/Documentos/mockup.png" width="350px" />
+
+### Modelo de Dados
+
+<img src="/Documentos/modeloDados.png" width="350px" />
 
 ### Requisitos Funcionais:
 - ✅   Desenvolver uma interface web intuitiva, com autenticação;
@@ -66,23 +83,17 @@
 
 
 
-## :dart: Backlog
-
-
-<img src="/Documentos/backlog.png" width="350px" />
 
 
 
-## :dart: Technologies Used 
+## :dart: Tecnologias Utilizadas 
 
 - ✅  Ferramentas: Figma, Visual Studio Code, Github, Whatsapp e Discord
 - ✅  Programação Back-End : Java , Python, IA.
-- ✅  Front-End Programming:  Vue.js, SpringBoot.
-- ✅  Database: .
+- ✅  Front-End Programming:  Vue.js.
+- ✅  Database: MySql.
 
-## :dart: Timeline
-
- 
+## :dart: Cronograma
 
 |   Period     |     Dates       |
 | ------------------------------ | ---- |
@@ -112,9 +123,10 @@ Vídeo Sprint Review
 | Vitor Yuri Santos | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y) |
 | William Claudimar | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/William2819) |
 
+<span id="partner-company">
+
+## :bookmark_tabs: Partner Company
 
 
-##  :space_invader:Task details:
 
-If you are curious about which task each team member performed, access the link below and visit our Jira.
-
+→ [Return the top](#returnthetop)
