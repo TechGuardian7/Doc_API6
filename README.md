@@ -64,8 +64,12 @@ Veja mais detalhes das Tasks em nosso [JIRA](https://techguardian.atlassian.net/
 
 ### 📹Sprint Review
 <p>
-
+- Regras acordadas para próximas Sprints
+- Alinhamento de práticas pra cumprimento de prazos
+- Reposicionamento de funções da equipe
+- Realocamento das tasks TGN-11 e TGN-12 para Sprint 2
 </p>
+
 
 ### Requisitos Funcionais:
 - ✅   Desenvolver uma interface web intuitiva, com autenticação;
