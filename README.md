@@ -8,23 +8,10 @@
   O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos.
 
   
-## :dart: Backlog Total  
+## :dart: Backlog do Produto  
 <p>
-<img src="/Documentos/backlogsprint.png" width="350px" />
+<img src="/Documentos/backlogsprint.g" width="350px" />
 </p>
-
-<p>
-<img src="/Documentos/backlogsprint2.png" width="350px" />
-</p>
-<img src="/Documentos/backlogsprint3.png" width="350px" />
-
-### Critérios de Aceitação
-
-<img src="/Documentos/criterioAceitação.png" width="1000px" />
-
-##  :space_invader:Task details:
-
-<img src="/Documentos/tasks.png" width="700px" />
 
 ### 📹Sprint Review
 <p>
