@@ -10,7 +10,7 @@
   
 ## :dart: Backlog do Produto  
 <p>
-<img src="/Documentos/backlogsprint.g" width="350px" />
+<img src="/Documentos/BACKLOG.png" width="500px" />
 </p>
 
 ### 📹Sprint Review
