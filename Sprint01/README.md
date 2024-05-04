@@ -1,8 +1,3 @@
-<span id="topo">
-<div align="center">
-    <img src="/Documentos/techguardian.png" width="200px" style="float: left; margin-right: 10px;" />
-</div>
-
 
 ##  💻 Objetivo:
   O objetivo dessa primeira Sprint foi a criação de um sistema de monitoramento utilizando IA, registrando entrada e saída de pessoas da RedZone.
@@ -10,12 +5,26 @@
   
 ## :dart: Backlog da Sprint 
 <p>
-<img src="/Documentos/backlogsprint.g" width="350px" />
+<img src="/Sprint01/sprint01.png" width="900px" />
 </p>
 
+### Critério de Aceitação
+
+<img src="/Sprint01/criterioAceitacao.png" width="1100px" />
+
 ### Tasks
+
+<img src="/Sprint01/tasks.png" width="900px" />
 
 ### Burndown
 
 ### Modelo de Dados
+
+<img src="/Sprint01/modelagemDados.png" width="500px" />
+
 ### Mockup
+<img src="/Sprint01/HOME.png" width="700px" />
+<img src="/Sprint01/RegEntSai.png" width="700px" />
+
+### SprintReview
+
