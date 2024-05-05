@@ -23,30 +23,30 @@
 
 
 ### Requisitos Funcionais:
-- ✅   Sistema de monitoramento de entrada/saída da RedZone utilizando IA;
-- ✅   Visualização de registros de movimentos de entrada e saída nas RedZone
-- ✅   Visualização e emissão de relatórios com a movimentação da RedZone.
-- ✅   Configuração de parâmetros de tempo de permanência e datas permitidas na RedZone.
-- ✅   Interface para acesso e visualização de todas funcionalidades do sistema;
-- ✅   Implementação de uma interface amigável e intuitiva para acessar facilmente as funcionalidades do sistema;
-- ✅   Sistema de Login para acesso de usuários e administradores;
-- ✅   Emissão de alerta e notificação caso esteja ocorrendo alguma irregularidade dentro da RedZone;
-- ✅   Visualização e adição de mais câmeras de monitoramento das RedZones.
+- :memo:   Sistema de monitoramento de entrada/saída da RedZone utilizando IA;
+- :memo:   Visualização de registros de movimentos de entrada e saída nas RedZone
+- :memo:   Visualização e emissão de relatórios com a movimentação da RedZone.
+- :memo:   Configuração de parâmetros de tempo de permanência e datas permitidas na RedZone.
+- :memo:  Interface para acesso e visualização de todas funcionalidades do sistema;
+- :memo:   Implementação de uma interface amigável e intuitiva para acessar facilmente as funcionalidades do sistema;
+- :memo:   Sistema de Login para acesso de usuários e administradores;
+- :memo:   Emissão de alerta e notificação caso esteja ocorrendo alguma irregularidade dentro da RedZone;
+- :memo:   Visualização e adição de mais câmeras de monitoramento das RedZones.
 
 
 ### Requisitos Não Funcionais:
-- ✅  Manual do usuário;
-- ✅  Documentação do sistema;
-- ✅  Guia de instalação;
-- ✅  Acesso à organização de desenvolvimento.
+- :bulb:  Manual do usuário;
+- :bulb:  Documentação do sistema;
+- :bulb:  Guia de instalação;
+- :bulb:  Acesso à organização de desenvolvimento.
 
 
 ## :dart: Cronograma
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 25/03 - 14/04 | ✔️ Concluída    | [Relatório](https://github.com) |
-| 02 | 15/04 - 05-05 | 🚧 Em andamento    | [Relatório](https://github.com)|
+| 01 | 25/03 - 14/04 | ✔️ Concluída    | [Relatório](https://github.com/TechGuardian7/Doc_TechGuardian7/blob/main/Sprint01/README.md) |
+| 02 | 15/04 - 05-05 | ✔️ Concluída    | [Relatório](https://github.com/TechGuardian7/Doc_TechGuardian7/blob/main/Sprint02/README.md)|
 | 03 | 06/05 - 26-05 | 🚧 Em andamento    | [Relatório](https://github.com) |
 | 04 | 27/05 - 16-06 | 🚧 Em andamento    | [Relatório](https://github.co) |
 
