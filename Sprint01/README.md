@@ -18,6 +18,9 @@
 
 ### Burndown
 
+<img src="/Sprint01/burndown.jpeg" width="900px" />
+
+
 ### Modelo de Dados
 
 <img src="/Sprint01/modelagemDados.png" width="500px" />
