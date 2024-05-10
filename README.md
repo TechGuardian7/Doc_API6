@@ -1,6 +1,6 @@
 <span id="topo">
 <div align="center">
-    <img src="/Documentos/techguardian.png" width="200px" style="float: left; margin-right: 10px;" />
+    <img src="/Documentos/moonwolf GAMES.png" width="200px" style="float: left; margin-right: 10px;" />
 </div>
 
 
@@ -63,11 +63,8 @@
 
 |    Name     | Function |      GitHub    |
 |:-----------: |:------|:----------------------------|
-| Eduardo Carvalho | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoPereiraCarvalho) |
-| Rafael Cajé | Scrum Master | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafael-Caje) |
 | Carlos Henrique | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Henrique39) |
 | Thamires de Souza Barbosa | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thamires-S0uza) |
-| Vitor Yuri Santos | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y) |
 
 
 → [Return the top](#returnthetop)
